@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653142967 source:e:\c practice\number guess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

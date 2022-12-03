@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651992160 source:e:\c practice\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

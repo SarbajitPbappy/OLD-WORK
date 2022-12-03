@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658855677 source:e:\c practice\factors\main.c
+	<stdio.h>
+	<stdlib.h>
+

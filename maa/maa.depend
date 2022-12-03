@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652067674 source:e:\c practice\maa\main.cpp
+	<cmath>
+	<iostream>
+	<vector>
+

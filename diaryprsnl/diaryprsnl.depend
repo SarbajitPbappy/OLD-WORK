@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662904463 source:e:\c practice\diaryprsnl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

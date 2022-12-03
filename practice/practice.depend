@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652449442 source:e:\c practice\practice\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+

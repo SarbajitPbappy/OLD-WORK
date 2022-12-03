@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652427599 source:e:\c practice\game\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+

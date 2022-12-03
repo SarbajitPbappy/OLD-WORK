@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665802227 source:e:\c practice\rows\main.c
+	<stdio.h>
+	<stdlib.h>
+

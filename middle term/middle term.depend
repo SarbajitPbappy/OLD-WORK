@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652006202 source:e:\c practice\middle term\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

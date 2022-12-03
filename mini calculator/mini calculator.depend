@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651992740 source:e:\c practice\mini calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

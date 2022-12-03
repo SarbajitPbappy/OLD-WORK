@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652011050 source:e:\c practice\trigonometry\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
